@@ -1,0 +1,12 @@
+{
+  "apiHost" : "https://api.nibeuplink.com",
+  "redirectUrl": "https://mycallbackurl.local",
+  "clientId": "",
+  "secretKey": "",
+  "systemVoltage": 230,
+  "systems": {
+    "1": {
+      "systemId": 12345
+    }
+  }
+}
